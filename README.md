@@ -1,4 +1,4 @@
-# **EDM mandates**
+# **EDM Legal Requirements**
 
 ## Streets and addresses (CSCL and PAD)
 To support emergency dispatch and operational agencies with timely geographic updates to streets and addresses, as per Executive Order 39 of 1997, as well as other location based information
@@ -10,4 +10,6 @@ https://www1.nyc.gov/assets/records/pdf/executive_orders/1997EO039.PDF
 
 ## Fair Share (Facilities Database)
 
-## Community District Boudaries
+## Community District Boundaries
+
+## Open Data
