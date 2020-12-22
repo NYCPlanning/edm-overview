@@ -37,6 +37,9 @@ Community district boundaries are governed by the City Charter, chapter 69. Chap
 https://www1.nyc.gov/html/mancb2/downloads/pdf/handbook_appendices_2006.pdf
 
 ## Open Data
-Local Law 11 of 2012 mandates that qualifying CIty-managed digital data be made available to the public-at-large through a single web portal. The law covers data that is _"Regularly created or maintained by or on behalf of and owned by an agency that records a measurement, transaction, or determination related to the mission of an agency."_
+Local Law 11 of 2012 mandates that qualifying City-managed digital data be made available to the public-at-large through a single web portal. The law covers data that is _"Regularly created or maintained by or on behalf of and owned by an agency that records a measurement, transaction, or determination related to the mission of an agency."_
 
 https://www1.nyc.gov/assets/doitt/downloads/pdf/nyc_open_data_tsm.pdf
+
+## Community Gardens
+Local Law 46 of 2020 requires that community gardens be assigned a PLUTO land use category of open space, outdoor recreation, or other similar description. Community gardens cannot be a given a land use category of vacant.
