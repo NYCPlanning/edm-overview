@@ -1,6 +1,8 @@
 # **EDM Legal Requirements**
 
 ## Streets and addresses (CSCL and PAD)
+_Executive order 39 of 1997 requires the following:
+
 _Any information on newly-created streets or addresses will be transmitted to the City's emergency response agencies, who shall ensure that within five business days the newly identified locations are in their computer databases._
 
 _The Department of City Planning will also input any new information into their Geosupport Computer System, which processes and updates New York City geographic locations. These locations can include addresses, street intersections, street stretches and property parcels. Utilizing this Geosupport System, the Department of Planning will help ensure that all emergency agencies have current, accurate information._
