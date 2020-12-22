@@ -1,7 +1,7 @@
 # **EDM Legal Requirements**
 
 ## Streets and addresses (CSCL and PAD)
-_Executive order 39 of 1997 requires the following:
+_Executive order 39 of 1997 requires the following:_
 
 _Any information on newly-created streets or addresses will be transmitted to the City's emergency response agencies, who shall ensure that within five business days the newly identified locations are in their computer databases._
 
