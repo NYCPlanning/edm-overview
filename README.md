@@ -19,7 +19,7 @@ _"The statement of needs shall be accompanied by a map together with explanatory
 EDM maintains two datasets to meet these requirements, City Owned and Leased Properties (COLP) and Facilities Database (FacDB). The requirements for a map are met by Facilities Explorer, an application maintained by Planning Labs.
 
 ## Fair Share 
-City Charter chapter 8, section 204 covers the criteria for the fair distribution of city facilities
+City Charter chapter 8, section 204 covers the criteria for the fair distribution of city facilities.
 
 Under section 203, the City Planning Commission is required to establish criteria _"to further the fair distribution among communities of the burdens and benefits associated with city facilities, consistent with community needs for services and efficient and cost effective delivery of services and with due regard for the social and economic impacts of such facilities upon the areas surrounding the sites."_ This criteria apply to _"(1) the location of new city facilities and (2) the significant expansion, closing or significant reduction in size or capacity for service delivery of existing facilities."_
 
