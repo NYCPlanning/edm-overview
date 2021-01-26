@@ -43,3 +43,8 @@ https://www1.nyc.gov/assets/doitt/downloads/pdf/nyc_open_data_tsm.pdf
 
 ## Community Gardens
 Local Law 46 of 2020 requires that community gardens be assigned a PLUTO land use category of open space, outdoor recreation, or other similar description. Community gardens cannot be a given a land use category of vacant.
+
+https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=4085859&GUID=9E8F96B3-3137-4B8A-AD4F-E8EED71B555B&Options=ID|Text|&Search=46
+
+## Directive 1
+Comptroller's Directive 1 requires that the agency inventory all "information assets" and categorize them as restricted or non-restricted. 
