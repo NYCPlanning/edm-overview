@@ -47,4 +47,4 @@ Local Law 46 of 2020 requires that community gardens be assigned a PLUTO land us
 https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=4085859&GUID=9E8F96B3-3137-4B8A-AD4F-E8EED71B555B&Options=ID|Text|&Search=46
 
 ## Directive 1
-Comptroller's Directive 1 requires that the agency inventory all "information assets" and categorize them as restricted or non-restricted. 
+Comptroller's Directive 1 requires that the agency inventory all "information assets" and categorize them as restricted or non-restricted. This is updated annually.
