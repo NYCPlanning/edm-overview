@@ -27,12 +27,12 @@ City facilities are defined as _"a facility used or occupied or to be used or oc
 
 Fair Share criteria require that the sponsoring agency and CPC consider "_the compatability of the facility with existing facilities and programs, both city and non-city, in the immediate vicinity of the site."_
 
-City agencies use the Facilities Database (FacDB) and Facilities Explorer in their Fair Share analysis.
+City agencies use the Facilities Database (FacDB) and Facilities Explorer in their Fair Share analysis. The Facilities Explorer is maintained by Labs as part of the Capital Planning Platform.
 
 https://www1.nyc.gov/assets/planning/download/pdf/about/publications/fair_share_guide.pdf
 
 ## Community District Boundaries
-Community district boundaries are governed by the City Charter, chapter 69. Chapter 69 establishes the criteria for creating community district boundaries and the process for changing them. The mayor proposes changes, which the city council may adopt, adopt with modifications, or disapprove.
+Community district boundaries are governed by the City Charter, chapter 69. Chapter 69 establishes the criteria for creating community district boundaries and the process for changing them. The mayor proposes changes, which the city council may adopt, adopt with modifications, or disapprove. DCP is not mentioned in chapter 69. We maintain community district boundaries in CSCL and would need to implement any changes made.
 
 https://www1.nyc.gov/html/mancb2/downloads/pdf/handbook_appendices_2006.pdf
 
