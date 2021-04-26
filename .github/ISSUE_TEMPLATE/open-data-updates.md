@@ -13,6 +13,7 @@ assignees: aferrar, croswell81
 - [ ] **Zoning & Sidewalk Cafe features [fgdb/shp]** & **Georeferenced NYC Zoning Maps [fgdb]** 
   - [ ] Send reminder email - Run *Monthly_TRD_Notification_Email.py*
   - [ ] Process Files - Run  *Zoning and Sidewalk Cafe* tool (update metadata, package files for webteam)
+  - [ ] Check to see if any zoning map changes are in BX CD10 or Staten Island **(If yes, need to run LDGMA)**
   - [ ] Update Open Data log
   - [ ] Upload zoning files to Digital Ocean for DE
   - [ ] Update The Guide card
