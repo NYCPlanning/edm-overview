@@ -11,7 +11,8 @@ assignees: aferrar, croswell81
 ## Monthly Datasets
 
 - [ ] **Zoning & Sidewalk Cafe features [fgdb/shp]** & **Georeferenced NYC Zoning Maps [fgdb]** 
-  - [ ] Send reminder email - Run *Monthly_TRD_Notification_Email.py*
+  - [ ] Send TRD reminder email - Run *Monthly_TRD_Notification_Email.py*
+  - [ ] Send Zoning reminder email - Run *Monthly_Zoning_Notification_Email.py*
   - [ ] Process Files - Run  *Zoning and Sidewalk Cafe* tool (update metadata, package files for webteam)
   - [ ] Check to see if any zoning map changes are in BX CD10 or Staten Island **(If yes, need to run LDGMA)**
   - [ ] Update Open Data log
