@@ -30,9 +30,10 @@ assignees: aferrar, croswell81
 
 - [ ] **E-Designation [shp/csv]**<sup id="a1"> [1](#f1)</sup>
 
-  - [ ] Receive automated email verifying new E-Designation file from Susan has been moved to M drive w/ appended "as of date" from the email and that *Generate_EDesig.py* script (creates shapefile) has been run
+  - [ ] Receive automated email verifying new E-Designation file from Susan has been moved to M drive w/ appended "as of date" from the email and that *EDes_Generation.py* script (creates shapefile) has been run
         -This can be sent multiple times per month (uses latest one) 
-  - [ ] Distribute Files - Run  *Distribute_EDesig_Apply_Metadata.py* script (update metadata, package files for webteam, push to SDE PROD, update lyr metadata)
+  - [ ] Distribute Files - Run  *EDes_BP_Distribution.py* script (update metadata, push files to BytesProduction, package files for webteam) 
+  - [ ] Distribute Files - Run *EDes_SDE_Distribution.py* script (push to SDE PROD, update lyr metadata)
   - [ ] Update Open Data log
   - [ ] Upload zoning files to Digital Ocean for DE
   - [ ] Update The Guide card
