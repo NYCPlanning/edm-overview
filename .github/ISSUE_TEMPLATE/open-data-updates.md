@@ -64,8 +64,10 @@ assignees: aferrar, croswell81
 
 - [ ] **Zoning Tax Lot Database (ZTLDB) [csv]**
 
-  - [ ] Upload requisite data sets to s3 bucket for DE to pick-up **[MIH, EDes, ZoningFeatures, LPC, etc]**
-  - [ ] Receive notification from Lynn (or Amanda) that csv and metadata are QA'd and ready
+  - [ ] Upload requisite data sets to DigitalOcean for DE to pick-up **[Zoning Features]**
+  - [ ] Load data and build database **[data loading and build github actions]**
+  - [ ] Notify reviewer that ZTLDB is ready for QA
+  - [ ] Receive notification from reviewer that csv and metadata are QA'd and ready
   - [ ] Zip the csv and pdf metadata
   - [ ] Update Bytes (send email to Webteam)
   - [ ] Update Open Data log 
