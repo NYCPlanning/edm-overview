@@ -64,7 +64,7 @@ assignees: aferrar, croswell81
 
 - [ ] **Zoning Tax Lot Database (ZTLDB) [csv]**
 
-  - [ ] Upload requisite data sets to DigitalOcean for DE to pick-up **[Zoning Features]**
+  - [ ] Upload requisite data sets to DigitalOcean for DE to pick-up **[Zoning Features, DOF/DTM Features]**
   - [ ] Load data and build database **[data loading and build github actions]**
   - [ ] Notify reviewer that ZTLDB is ready for QA
   - [ ] Receive notification from reviewer that csv and metadata are QA'd and ready
