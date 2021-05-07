@@ -108,6 +108,7 @@ assignees: aferrar, croswell81
 
 - [ ] **Lower Density Growth Management Area (LDGMA) [shp]**<sup id="a3"> [3](#f3)</sup>
 
+  - [ ] Check Zoning Districts for changes in SI/BX10 for month
   - [ ] Generate LDGMA File - Run  *LDGMA_Distribution* script (update metadata, package files for webteam, push to SDE PROD, update lyr metadata)
   _Update script - separate file generation from SDE/lyr meta update (potential for new script for all monthly SDE/lyr meta updates_
   - [ ] Update Open Data log
