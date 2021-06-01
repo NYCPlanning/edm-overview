@@ -35,7 +35,7 @@ assignees: aferrar, croswell81
   - [ ] Distribute Files - Run  *EDes_BP_Distribution.py* script (update metadata, push files to BytesProduction, package files for webteam) 
   - [ ] Distribute Files - Run *EDes_SDE_Distribution.py* script (push to SDE PROD, update lyr metadata)
   - [ ] Update Open Data log
-  - [ ] Upload zoning files to Digital Ocean for DE
+  - [ ] Upload files to Digital Ocean for DE
   - [ ] Update The Guide card
   - [ ] Update Bytes (send email to Webteam)
   - [ ] Update AGOL
@@ -95,7 +95,7 @@ assignees: aferrar, croswell81
   - [ ] Send reminder email - Run *Monthly_TRD_Notification_Email.py*
   - [ ] Pull data from TRD and update BytesProduction - Run *BP_DCM.py* script
   - [ ] Update Open Data log
-  - [ ] Upload DCM files to Digital Ocean for DE
+  - [ ] Upload files to Digital Ocean for DE
   - [ ] Update The Guide card
   - [ ] Update Bytes (send email to Webteam)
   - [ ] Update AGOL
@@ -112,7 +112,7 @@ assignees: aferrar, croswell81
   - [ ] Generate LDGMA File - Run  *LDGMA_Distribution* script (update metadata, package files for webteam, push to SDE PROD, update lyr metadata)
   _Update script - separate file generation from SDE/lyr meta update (potential for new script for all monthly SDE/lyr meta updates_
   - [ ] Update Open Data log
-  - [ ] Upload DCM files to Digital Ocean for DE
+  - [ ] Upload files to Digital Ocean for DE
   - [ ] Update The Guide card
   - [ ] Update Bytes (send email to Webteam)
   - [ ] Update AGOL
@@ -128,7 +128,7 @@ assignees: aferrar, croswell81
   - [ ] Receive notification from Web team that all LION and Districts related data sets have been posted to BYTES
   - [ ] Run LION/Districts archive script to populate SDE and archive old version
   - [ ] Update Open Data log
-  - [ ] Upload DCM files to Digital Ocean for DE
+  - [ ] Upload files to Digital Ocean for DE
   - [ ] Update The Guide card
   - [ ] Update AGOL
   - [ ] Send email to Open Data team (after confirmation from webteam)
@@ -166,7 +166,7 @@ assignees: aferrar, croswell81
   - [ ] Update Bytes (send email to Webteam)
   - [ ] Update AGOL
   - [ ] Update Open Data log
-  - [ ] Upload DCM files to Digital Ocean for DE
+  - [ ] Upload files to Digital Ocean for DE
   - [ ] Send email to Open Data team (after confirmation from webteam)
   - [ ] Update MMR log
 ----
@@ -188,7 +188,7 @@ assignees: aferrar, croswell81
   - [ ] Update Bytes (send email to Webteam)
   - [ ] Update AGOL
   - [ ] Update Open Data log
-  - [ ] Upload DCM files to Digital Ocean for DE
+  - [ ] Upload files to Digital Ocean for DE
   - [ ] Send email to Open Data team (after confirmation from webteam)
   - [ ] Update MMR log
 
