@@ -14,6 +14,7 @@ assignees: aferrar, croswell81
   - [ ] Send TRD reminder email - Run *Monthly_TRD_Notification_Email.py*
   - [ ] Send Zoning reminder email - Run *Monthly_Zoning_Notification_Email.py*
   - [ ] Process Files - Run  *Zoning and Sidewalk Cafe* tool (update metadata, package files for webteam)
+  - [ ] Manually generate metadata pdfs
   - [ ] Check to see if any zoning map changes are in BX CD10 or Staten Island **(If yes, need to run LDGMA)**
   - [ ] Update Open Data log
   - [ ] Upload zoning files to Digital Ocean for DE
@@ -33,6 +34,8 @@ assignees: aferrar, croswell81
   - [ ] Receive automated email verifying new E-Designation file from Susan has been moved to M drive w/ appended "as of date" from the email and that *EDes_Generation.py* script (creates shapefile) has been run
         -This can be sent multiple times per month (uses latest one) 
   - [ ] Distribute Files - Run  *EDes_BP_Distribution.py* script (update metadata, push files to BytesProduction, package files for webteam) 
+  - [ ] Manually generate metadata pdf
+  - [ ] Create web folder in BytesProduction and zip files for CSV and SHP
   - [ ] Distribute Files - Run *EDes_SDE_Distribution.py* script (push to SDE PROD, update lyr metadata)
   - [ ] Update Open Data log
   - [ ] Upload files to Digital Ocean for DE
@@ -51,7 +54,7 @@ assignees: aferrar, croswell81
   - [ ] Process Files - Run *BYTES_Distribution* script (update metadata, package files for webteam, push to BytesProduction)
   - [ ] Manually generate metadata pdf
   - [ ] Update Open Data log
-  - [ ] Upload zoning files to Digital Ocean for DE
+  - [ ] Upload files to Digital Ocean for DE
   - [ ] Update The Guide card
   - [ ] Update Bytes (send email to Webteam)
   - [ ] Update AGOL
@@ -64,7 +67,9 @@ assignees: aferrar, croswell81
 
 - [ ] **Zoning Tax Lot Database (ZTLDB) [csv]**
 
-  - [ ] Upload requisite data sets to DigitalOcean for DE to pick-up **[Zoning Features, DOF/DTM Features, E-Designations, MIH]**
+  - [ ] Run dataloading and build issues in github to generate ZTLDB
+  - [ ] Review ZTLDB QA
+  - [ ] Upload requisite data sets to DigitalOcean for DE to pick-up **[Zoning Features & DOF/DTM Features]**
   - [ ] Load data and build database **[data loading and build github actions]**
   - [ ] Notify reviewer that ZTLDB is ready for QA
   - [ ] Receive notification from reviewer that csv and metadata are QA'd and ready
@@ -80,7 +85,8 @@ assignees: aferrar, croswell81
   - [ ] Receive pluto.csv (corrections included) file from Data Engineering
   - [ ] Receive notification from Lynn that raw_data files have been reviewed and are available. 
   - [ ] Distribute Files - Run *MapPLUTO_Archive* script (package files for webteam, push to PROD and ARCHIVE SDEs, updates lyr metadata [MapPLUTO / Archive MapPLUTO / Borough MapPLUTO])
-  - [ ] Manually generate metadata pdf
+  - [ ] Receive and review Data dictionary, Readme and PLUTOChangeReadme
+  - [ ] Manually generate metadata pdfs
   - [ ] Update Open Data log
   - [ ] Upload zoning files to Digital Ocean for DE
   - [ ] Update The Guide card
@@ -94,6 +100,7 @@ assignees: aferrar, croswell81
 
   - [ ] Send reminder email - Run *Monthly_TRD_Notification_Email.py*
   - [ ] Pull data from TRD and update BytesProduction - Run *BP_DCM.py* script
+  - [ ] Manually generate metadata pdfs
   - [ ] Update Open Data log
   - [ ] Upload files to Digital Ocean for DE
   - [ ] Update The Guide card
